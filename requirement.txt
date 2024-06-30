@@ -4,7 +4,6 @@ tensorflow
 matplotlib
 seaborn
 nltk
-pickle
 re
 string
 uvicorn
