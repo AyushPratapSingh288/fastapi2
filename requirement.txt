@@ -2,7 +2,6 @@ numpy
 pandas
 tensorflow
 matplotlib
-seaborn
 nltk
 re
 string
@@ -17,4 +16,3 @@ httptools
 fastapi[all]
 logging
 regex
-Jinja2
