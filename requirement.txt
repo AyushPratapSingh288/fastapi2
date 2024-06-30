@@ -1,10 +1,9 @@
-numpy
-pandas
-tensorflow
-matplotlib
+numpy>=1.0
+pandas==1.3.0
+tensorflow>=2.0,<3.0
+matplotlib>=3.0
 nltk
-re
-string
+regex
 uvicorn
 fastapi
 pydantic
@@ -14,5 +13,3 @@ gunicorn
 uvloop
 httptools
 fastapi[all]
-logging
-regex
